@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FB4DF55328A145EC0028911F /* ViewControllerList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB4DF55228A145EC0028911F /* ViewControllerList.swift */; };
 		FB6B9CB028A12A9D00C6B3E7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6B9CAF28A12A9D00C6B3E7 /* AppDelegate.swift */; };
 		FB6B9CB228A12A9D00C6B3E7 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6B9CB128A12A9D00C6B3E7 /* SceneDelegate.swift */; };
 		FB6B9CB428A12A9D00C6B3E7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB6B9CB328A12A9D00C6B3E7 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FB4DF55228A145EC0028911F /* ViewControllerList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerList.swift; sourceTree = "<group>"; };
 		FB6B9CAC28A12A9D00C6B3E7 /* travelBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = travelBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB6B9CAF28A12A9D00C6B3E7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB6B9CB128A12A9D00C6B3E7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				FB6B9CBD28A12A9F00C6B3E7 /* LaunchScreen.storyboard */,
 				FB6B9CC028A12A9F00C6B3E7 /* Info.plist */,
 				FB6B9CB828A12A9D00C6B3E7 /* travelBook.xcdatamodeld */,
+				FB4DF55228A145EC0028911F /* ViewControllerList.swift */,
 			);
 			path = travelBook;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FB4DF55328A145EC0028911F /* ViewControllerList.swift in Sources */,
 				FB6B9CBA28A12A9D00C6B3E7 /* travelBook.xcdatamodeld in Sources */,
 				FB6B9CB428A12A9D00C6B3E7 /* ViewController.swift in Sources */,
 				FB6B9CB028A12A9D00C6B3E7 /* AppDelegate.swift in Sources */,
