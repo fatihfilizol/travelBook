@@ -91,6 +91,7 @@
                     <navigationItem key="navigationItem" id="WJS-m2-Pz6"/>
                     <connections>
                         <outlet property="mapView" destination="C8s-rP-OvL" id="eja-Xv-4RE"/>
+                        <outlet property="saveButton" destination="Oq3-Dd-Ia5" id="aXD-1z-Hpt"/>
                         <outlet property="txtComment" destination="5DN-oN-LhY" id="dzw-wv-Wrc"/>
                         <outlet property="txtName" destination="fsp-Vo-S8R" id="Msa-Av-rzF"/>
                     </connections>
